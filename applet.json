@@ -1,0 +1,21 @@
+{
+  "schema": 1,
+  "id": "linspectacles-cpu-vulnerabilities",
+  "name": "CPU Vulnerabilities",
+  "version": "0.0.5",
+  "author": "brunonlinespace",
+  "editor": "brunonlinespace",
+  "publisher": "brunonlinespace",
+  "organization_id": "linspectacles",
+  "organization_url": "https://github.com/linspectacles/",
+  "repository": "https://github.com/linspectacles/cpu-vulnerabilities",
+  "order": 26,
+  "entrypoint": "cpu_vulnerabilities/applet.py",
+  "factory": "create_applet",
+  "standalone": "standalone.py",
+  "description": "Read-only Linux CPU vulnerability and mitigation-status inspector using the kernel-reported /sys/devices/system/cpu/vulnerabilities interface; no overall security verdict is inferred.",
+  "platforms": [
+    "linux"
+  ],
+  "read_only": true
+}
