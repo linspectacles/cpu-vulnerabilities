@@ -8,7 +8,6 @@ Current release: **0.0.5**
 
 Repository: <https://github.com/linspectacles/cpu-vulnerabilities>
 
-
 <p align="center">
   <a href="https://github.com/brunonlinespace/brunonlinespace/blob/main/linspectacles/cpu-vulnerabilities.png">
     <img
@@ -18,6 +17,7 @@ Repository: <https://github.com/linspectacles/cpu-vulnerabilities>
     >
   </a>
 </p>
+
 ## What CPU Vulnerabilities is
 
 CPU Vulnerabilities answers a focused question: **what CPU vulnerability or mitigation state is the running Linux kernel currently reporting?**
